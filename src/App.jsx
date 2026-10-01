@@ -130,7 +130,7 @@ export default function App() {
                 <img 
               src="/images/logo.png" 
               alt="Logo" 
-              className="w-20 h-20 object-contain" 
+              className="w-25 h-25 object-contain" 
             />
 
             <div className="flex flex-col">
