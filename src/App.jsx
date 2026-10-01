@@ -75,7 +75,7 @@ const PROPERTIES = [
     ]
   },
   {
-    id: 4,
+    id: 5,
     title: "Rumah Soreang",
     category: "Rumah",
     price: "Rp 400.000.000",
