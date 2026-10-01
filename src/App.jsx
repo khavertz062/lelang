@@ -128,7 +128,7 @@ export default function App() {
 
             {/* Opsi B: Logo Ikon SVG Modern (Bisa dipakai langsung tanpa file gambar) */}
                 <img 
-              src="/public/images/logo.png" 
+              src="/images/logo.png" 
               alt="Logo" 
               className="w-20 h-20 object-contain" 
             />
