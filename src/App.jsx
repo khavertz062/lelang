@@ -127,11 +127,11 @@ export default function App() {
             {/* <img src="/logo.png" alt="Logo Properti" className="h-10 w-auto object-contain" /> */}
 
             {/* Opsi B: Logo Ikon SVG Modern (Bisa dipakai langsung tanpa file gambar) */}
-     <img 
-  src="/public/images/logo.png" 
-  alt="Logo" 
-  className="w-30 h-30 object-contain" 
-/>
+                <img 
+              src="/public/images/logo.png" 
+              alt="Logo" 
+              className="w-20 h-20 object-contain" 
+            />
 
             <div className="flex flex-col">
              <span className="text-xl font-extrabold tracking-tight bg-gradient-to-r from-[#0857c3] via-[#0070C0] to-[#00A3E0] bg-clip-text text-transparent">
